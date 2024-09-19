@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\design\\DuAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FED22A2-1E92-4AAA-A77D-E31B24F4031C}|ConsoleApp1\\ConsoleApp1.csproj|z:\\design\\duan\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FED22A2-1E92-4AAA-A77D-E31B24F4031C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE304A3D-756D-455B-A4A7-CF0D8F5A1645}|builer\\builer.csproj|z:\\design\\duan\\builer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE304A3D-756D-455B-A4A7-CF0D8F5A1645}|builer\\builer.csproj|solutionrelative:builer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F65E7A-9B5D-4A6E-9C73-27202544D38D}|factoryMethod\\factoryMethod.csproj|z:\\design\\duan\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F65E7A-9B5D-4A6E-9C73-27202544D38D}|factoryMethod\\factoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F1E483-3C37-416B-9E48-C7AE066FBBF4}|Singleton\\Singleton.csproj|z:\\design\\duan\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F1E483-3C37-416B-9E48-C7AE066FBBF4}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070E0D05-3C68-45B1-BE76-96344D3E2E96}|Prototype\\Prototype.csproj|z:\\design\\duan\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070E0D05-3C68-45B1-BE76-96344D3E2E96}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070E0D05-3C68-45B1-BE76-96344D3E2E96}|Prototype\\Prototype.csproj|z:\\design\\duan\\prototype\\prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{070E0D05-3C68-45B1-BE76-96344D3E2E96}|Prototype\\Prototype.csproj|solutionrelative:prototype\\prototype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prototype",
+              "DocumentMoniker": "Z:\\design\\DuAN\\Prototype\\Prototype.csproj",
+              "RelativeDocumentMoniker": "Prototype\\Prototype.csproj",
+              "ToolTip": "Z:\\design\\DuAN\\Prototype\\Prototype.csproj",
+              "RelativeToolTip": "Prototype\\Prototype.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T01:18:59.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\design\\DuAN\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "Z:\\design\\DuAN\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:17:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\design\\DuAN\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "Z:\\design\\DuAN\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:17:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\design\\DuAN\\factoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "factoryMethod\\Program.cs",
+              "ToolTip": "Z:\\design\\DuAN\\factoryMethod\\Program.cs",
+              "RelativeToolTip": "factoryMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:16:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\design\\DuAN\\builer\\Program.cs",
+              "RelativeDocumentMoniker": "builer\\Program.cs",
+              "ToolTip": "Z:\\design\\DuAN\\builer\\Program.cs",
+              "RelativeToolTip": "builer\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAA6wJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:13:59.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\design\\DuAN\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "Z:\\design\\DuAN\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:03:03.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

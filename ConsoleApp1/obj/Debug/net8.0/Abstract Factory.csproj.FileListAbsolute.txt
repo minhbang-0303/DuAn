@@ -1,0 +1,14 @@
+Z:\design\DuAN\ConsoleApp1\bin\Debug\net8.0\Abstract Factory.exe
+Z:\design\DuAN\ConsoleApp1\bin\Debug\net8.0\Abstract Factory.deps.json
+Z:\design\DuAN\ConsoleApp1\bin\Debug\net8.0\Abstract Factory.runtimeconfig.json
+Z:\design\DuAN\ConsoleApp1\bin\Debug\net8.0\Abstract Factory.dll
+Z:\design\DuAN\ConsoleApp1\bin\Debug\net8.0\Abstract Factory.pdb
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.AssemblyInfoInputs.cache
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.AssemblyInfo.cs
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.csproj.CoreCompileInputs.cache
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.dll
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\refint\Abstract Factory.dll
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.pdb
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\Abstract Factory.genruntimeconfig.cache
+Z:\design\DuAN\ConsoleApp1\obj\Debug\net8.0\ref\Abstract Factory.dll

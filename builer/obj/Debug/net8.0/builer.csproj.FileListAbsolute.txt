@@ -1,0 +1,14 @@
+Z:\design\DuAN\builer\bin\Debug\net8.0\builer.exe
+Z:\design\DuAN\builer\bin\Debug\net8.0\builer.deps.json
+Z:\design\DuAN\builer\bin\Debug\net8.0\builer.runtimeconfig.json
+Z:\design\DuAN\builer\bin\Debug\net8.0\builer.dll
+Z:\design\DuAN\builer\bin\Debug\net8.0\builer.pdb
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.AssemblyInfoInputs.cache
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.AssemblyInfo.cs
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.csproj.CoreCompileInputs.cache
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.dll
+Z:\design\DuAN\builer\obj\Debug\net8.0\refint\builer.dll
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.pdb
+Z:\design\DuAN\builer\obj\Debug\net8.0\builer.genruntimeconfig.cache
+Z:\design\DuAN\builer\obj\Debug\net8.0\ref\builer.dll

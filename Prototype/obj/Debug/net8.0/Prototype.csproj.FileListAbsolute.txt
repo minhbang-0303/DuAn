@@ -1,0 +1,14 @@
+Z:\design\DuAN\Prototype\bin\Debug\net8.0\Prototype.exe
+Z:\design\DuAN\Prototype\bin\Debug\net8.0\Prototype.deps.json
+Z:\design\DuAN\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+Z:\design\DuAN\Prototype\bin\Debug\net8.0\Prototype.dll
+Z:\design\DuAN\Prototype\bin\Debug\net8.0\Prototype.pdb
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.dll
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.pdb
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+Z:\design\DuAN\Prototype\obj\Debug\net8.0\ref\Prototype.dll

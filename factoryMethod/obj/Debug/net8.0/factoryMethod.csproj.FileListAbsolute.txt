@@ -1,0 +1,14 @@
+Z:\design\DuAN\factoryMethod\bin\Debug\net8.0\factoryMethod.exe
+Z:\design\DuAN\factoryMethod\bin\Debug\net8.0\factoryMethod.deps.json
+Z:\design\DuAN\factoryMethod\bin\Debug\net8.0\factoryMethod.runtimeconfig.json
+Z:\design\DuAN\factoryMethod\bin\Debug\net8.0\factoryMethod.dll
+Z:\design\DuAN\factoryMethod\bin\Debug\net8.0\factoryMethod.pdb
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.AssemblyInfoInputs.cache
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.AssemblyInfo.cs
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.csproj.CoreCompileInputs.cache
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.dll
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\refint\factoryMethod.dll
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.pdb
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\factoryMethod.genruntimeconfig.cache
+Z:\design\DuAN\factoryMethod\obj\Debug\net8.0\ref\factoryMethod.dll
